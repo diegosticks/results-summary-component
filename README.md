@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/diegosticks/results-summary-component)
-- Live Site URL: [Add live site URL here](https://chijiokeresult-summary-comp.netlify.app/)
+- [Solution URL](https://github.com/diegosticks/results-summary-component)
+- [Live site URL](https://chijiokeresult-summary-comp.netlify.app/)
 
 ## My process
 -  I created an HTML boiler plate, a CSS style sheet and linked it to the HTML page.
